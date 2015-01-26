@@ -15,7 +15,7 @@ ChainPay allows you to easily accept Bitcoin on your WooCommerce store whilst re
 
 ChainPay automatically handles the exchange rate conversion and delivers your funds directly to your bank account - just like your existing payment provider!
 
-Sign up at https://portal.chainpay.com/account/register to create your own account, and accept many new customers whilst saving on your payment gateway fees.
+Sign up at https://portal.chainpay.com/account/signup to create your own account, and accept many new customers whilst saving on your payment gateway fees.
 
 Visit https://chainpay to learn how you can benefit from Bitcoin.
 
