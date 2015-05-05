@@ -2,9 +2,10 @@
 Contributors: altxe
 Tags: payments, ecommerce, invoicing, bitcoin
 Requires at least: 3.0.1
-Tested up to: 4.1
+Tested up to: 4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Stable tag: 1.3
 
 ChainPay provides Bitcoin Payment Gateway functionality for WooCommerce.
 
